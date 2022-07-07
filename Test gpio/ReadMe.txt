@@ -12,7 +12,7 @@ Ce code consiste en plusieurs parties :
 TUTORIEL :
 
 Pour activer ces parties, vous devrez vous rendre, dans une invite de commande, dans /home/raspberry/scripts et exécuter tous les scripts des read, ainsi que les scripts du serveur et du front. 
-Exemple de commande : "sh NOM_DU_SCRIPT.sh"
+Commandes à exécuter : "cd /home/raspberry/scripts", puis "sh NOM_DU_SCRIPT.sh"
 Ces scripts sont composés des commandes à exécuter pour lancer les programmes nécessaires au bon fonctionnement du site. Cela simplifie grandement le processus de lancement du programme.
 Il faut lancer chacun des scripts dans une invite de commande différente, donc si nous voulons surveiller les 6 tourniquets, nous aurons les 6 fenêtres avec les programmes des read, la fenêtre avec le serveur, et la fenêtre avec le site.
 
